@@ -10,7 +10,7 @@ import com.agreeya.hci.dao.ApplicationLoggerDAO;
 import com.agreeya.hci.model.ApplicationLog;
 
 /**
- * @author AgreeYa Solutionsccccc
+ * @author AgreeYa Solutionscc
  *
  */
 public class CHHSLoggerListener implements MessageListener {
@@ -33,8 +33,7 @@ public class CHHSLoggerListener implements MessageListener {
 		}
 	}
 	
-	
-	
+		
 
 	public ApplicationLoggerDAO getApplicationLoggerDAO() {
 		return applicationLoggerDAO;
